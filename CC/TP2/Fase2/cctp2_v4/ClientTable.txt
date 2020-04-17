@@ -1,0 +1,201 @@
+Numero de sequencia inicial: 34008
+
+Tipo de transferencia: 0
+
+Nome do ficheiro: file2.txt
+
+Pacotes completos: 2
+
+Pacotes Enviados:
+
+Nº Sequencia: 34008
+Nº Sequencia Ack: -1
+Flag: 0
+CheckSum: 2405872492
+
+
+Nº Sequencia: 34009
+Nº Sequencia Ack: 26178
+Flag: 3
+CheckSum: 3664804446
+
+
+Nº Sequencia: 34010
+Nº Sequencia Ack: 26179
+Flag: 5
+CheckSum: 2155728355
+
+
+Nº Sequencia: 34011
+Nº Sequencia Ack: 26180
+Flag: 5
+CheckSum: 2467570028
+
+
+Nº Sequencia: 34012
+Nº Sequencia Ack: 26181
+Flag: 5
+CheckSum: 1305357792
+
+
+Nº Sequencia: 34013
+Nº Sequencia Ack: 26182
+Flag: 5
+CheckSum: 3443161052
+
+
+Nº Sequencia: 34014
+Nº Sequencia Ack: 26183
+Flag: 7
+CheckSum: 28709073
+
+
+
+
+
+
+
+Pacotes Recebidos:
+
+Nº Sequencia: 26177
+Nº Sequencia Ack: 34009
+Flag: 2
+CheckSum: 3453765612
+
+
+Nº Sequencia: 26178
+Nº Sequencia Ack: 0
+Data: Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Tex
+Flag: 4
+CheckSum: 1726503493
+
+
+Nº Sequencia: 26179
+Nº Sequencia Ack: 0
+Data: t Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy T
+Flag: 4
+CheckSum: 1032174455
+
+
+Nº Sequencia: 26180
+Nº Sequencia Ack: 0
+Data: ext Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dum
+Flag: 4
+CheckSum: 4258449777
+
+
+Nº Sequencia: 26181
+Nº Sequencia Ack: 0
+Data: my Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text 
+Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text
+
+Flag: 4
+CheckSum: 3763712600
+
+
+Nº Sequencia: 26182
+Nº Sequencia Ack: 34014
+Flag: 6
+CheckSum: 1841145446
+
+
+Nº Sequencia: 26183
+Nº Sequencia Ack: -1
+Flag: 8
+CheckSum: 3125725617
+
+
